@@ -1,0 +1,5 @@
+Sky-Blue = #3AB0FF
+Light-orange - #FFB562
+Dark-orange = #F15412
+Black = #383838
+Dark Blue = #1F4690

@@ -1,0 +1,88 @@
+.bg{
+    background: #1F4690;
+    /* background-image: linear-gradient(#1F4690, #3AB0FF); */
+    /* background: #1F4690; */
+    /* background-image: linear-gradient(#1F4690); */
+}
+.bg1{
+    background: #1F4690;
+}
+.nav-link{
+    width: 100px;
+    text-align: center;
+}
+
+.active{
+    border-bottom: 2px solid 73777B;
+    border-left:  2px solid #F15412;
+    border-right:  2px solid #F15412;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+.img_cat{
+    object-fit: contain;
+}
+
+.card-image{
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.card-image .card-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+
+
+/* Footer */
+
+.container-f{
+    max-width: 100%;
+    background: #F15412;
+    margin: auto;
+}
+
+.row-f{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul{
+    list-style: none;
+}
+
+.footer{
+    background-color: #383838;
+
+}
+
+.footer-col {
+    width: 25%;
+    padding: 0 15px;
+}
+.banner{
+    width: 100px;
+    height: 500px;
+    background: url(Images/banner-page.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.shop-btn{
+    margin-left: 950px;
+    margin-top: 430px;
+    width: 200px;
+    background-image: linear-gradient(#1F4690, #3AB0FF, #1F4690);
+}
+.shop-btn:hover{
+    background-image: linear-gradient(#3AB0FF, #1F4690, #3AB0FF);
+    color: wheat;
+}
+.btn-buy{
+    background-image: linear-gradient(#F15412, #FFA500, #F15412);
+}

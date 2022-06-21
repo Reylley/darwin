@@ -1,0 +1,11 @@
+<div class="row p-5 m-auto">
+        <div class="box mx-3" style="height: 350px; width: 300px">
+            <img src="Images/Category-1.jpg" alt="" width="300px" height="330px">
+        </div>
+        <div class="box mx-3" style="height: 350px; width: 300px">
+          <img src="Images/Category-2.jpg" alt="" width="300px" height="330px">
+        </div>
+        <div class="box mx-3" style="height: 350px; width: 300px">
+        <img src="Images/Category-3.jpg" alt="" width="300px" height="330px">
+        </div>
+      </div>
