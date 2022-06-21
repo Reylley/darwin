@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #7F8487;
+}
+
+.bgs{
+  background-image: linear-gradient(#1F4690,#3AB0FF,#1F4690);
+  
+}
+
+.logo{
+  width: 45px;
+  height: 45px;
+}
+
+.btnC{
+  background: #1F4690;
+}
